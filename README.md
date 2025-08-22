@@ -21,10 +21,11 @@ Soy **Ingeniero en Desarrollo de Software** y estudiante de **Ingeniería en Sis
 
 ## 🚀 Proyectos Destacados
 
-### 🌱 Invernadero Inteligente
-Sistema de monitoreo de sensores con Arduino y ESP32.  
-![Invernadero GIF](https://media.giphy.com/media/EBCL160f6piN8jmepQ/giphy.gif) <!-- GIF del invernadero que compartiste -->
-[Ver proyecto](#)
+### 📚 Biblioteca
+Sistema de gestión de biblioteca que permite registrar libros, usuarios y préstamos.  
+Incluye funcionalidades de búsqueda, control de inventario y reportes para optimizar la administración de recursos.  
+![Biblioteca GIF](https://media.giphy.com/media/fszhMHsegpJsTjz2i2/giphy.gif) <!-- GIF de la biblioteca que compartiste -->
+[Ver proyecto](https://github.com/JahirJared/Biblioteca)
 
 ---
 
